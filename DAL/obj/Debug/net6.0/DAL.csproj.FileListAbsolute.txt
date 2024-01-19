@@ -1,0 +1,180 @@
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\DAL\obj\Debug\net6.0\ref\DAL.dll

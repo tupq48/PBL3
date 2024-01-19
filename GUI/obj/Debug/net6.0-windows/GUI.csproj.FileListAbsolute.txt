@@ -1,0 +1,553 @@
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\This PC\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\NhapPBL\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3 (2)\PBL3 (2)\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\Pet_Shop_Management_System.SplashForm.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\PBL3\PBL3_QuanLyBanThuCung\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL3\ABC\PBL3_QuanLyBanThuCung (1)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3_QuanLyBanThuCung (1) (1)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Employee.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_EmployeeModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Pet.resources
+C:\Users\data\OneDrive\Desktop\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_PetModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Employee.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_EmployeeModule.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_Pet.resources
+C:\Users\Admin\Desktop\Tai lieu hoc tap\HK4\PBL1.1\PBL3\GUI\obj\Debug\net6.0-windows\GUI.GUI_PetModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\SimpleChart.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\BLL.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\BLL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Cash.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashCustomer.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CashProduct.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Customer.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_CustomerModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Dasboad.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_DoiMatKhau.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Employee.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_EmployeeModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Login.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Main.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_NhanVien.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Pet.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_PetModule.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_Splash.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThongKe.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GUI_ThuCung.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\data\OneDrive\Desktop\PBL3 (2)\GUI\obj\Debug\net6.0-windows\ref\GUI.dll

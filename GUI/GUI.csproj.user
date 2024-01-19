@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI_Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_CashCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_CashProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_CustomerModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Dasboad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_EmployeeModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Pet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_PetModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI_ThuCung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
